@@ -54,5 +54,5 @@ Install the dependencies by running:
 `Frontend` : HTML, CSS  <br>
 `Web Framework` : Django  <br>
 
-<h3 align="center"><b>Developed with :heart: by <a href="https://github.com/anina512">Anina</a> ,<a href="https://github.com/Laborious-Coder"> Jigyassa</a> and <a href="https://github.com/blurryfca3">Aaditya</a></b></h1>
+<h3 align="center"><b>Developed with :heart: by <a href="https://github.com/anina512">Anina</a> ,<a href="https://github.com/Laborious-Coder"> Jigyassa</a> and <a href="https://github.com/AadityaMahadevan">Aaditya</a></b></h1>
 
